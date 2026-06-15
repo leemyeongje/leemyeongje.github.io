@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kiwi-amber.vercel.app
+  baseUrl: leemyeongje.github.io
   ignorePatterns:
     - private
     - templates
