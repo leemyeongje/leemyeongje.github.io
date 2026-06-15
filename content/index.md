@@ -1,13 +1,9 @@
 ---
-title: 키위
+title: Main Street L.M.J.
 ---
 
-[[이명제]]의 정보가 정리된 [[위키]], [[키위]]에 오신 것을 환영합니다.
+> HERE YOU LEAVE TODAY AND ENTER THE WORLD OF YESTERDAY, TOMORROW, AND FANTASY
 
-## 목록
+[[이명제]]의 [[위키]]에 오신 것을 환영합니다.
 
-- [[이명제]]
-- [[나]]
-- [[키위]]
-- [[위키]]
-- [[기록]]
+이곳에 무슨 말을 적어야 할까요?
